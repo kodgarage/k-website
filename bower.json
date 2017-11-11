@@ -1,0 +1,17 @@
+{
+  "name": "k-website",
+  "description": "kodgarage",
+  "main": "index.js",
+  "authors": [
+    "k-team"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
